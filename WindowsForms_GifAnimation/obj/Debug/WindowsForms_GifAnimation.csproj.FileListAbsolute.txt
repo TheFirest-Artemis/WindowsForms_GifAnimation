@@ -1,0 +1,11 @@
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\bin\Debug\WindowsForms_GifAnimation.exe.config
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\bin\Debug\WindowsForms_GifAnimation.exe
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\bin\Debug\WindowsForms_GifAnimation.pdb
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.Form1.resources
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.Properties.Resources.resources
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.csproj.GenerateResource.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.exe
+C:\Users\artem\OneDrive\Рабочий стол\Programming\C#\WindowsForms_GifAnimation\WindowsForms_GifAnimation\obj\Debug\WindowsForms_GifAnimation.pdb
