@@ -12,7 +12,9 @@ namespace WindowsForms_GifAnimation
 {
     public partial class Form1 : Form
     {
-        Image fan;
+        static Image fan;
+        static Image newFan;
+
         public Form1()
         {
             InitializeComponent();
@@ -21,9 +23,9 @@ namespace WindowsForms_GifAnimation
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-            ImageAnimator.UpdateFrames(fan);
+            ImageAnimator.UpdateFrames(newFan);
 
-            e.Graphics.DrawImage(fan, new Point(50, 50));
+            e.Graphics.DrawImage(newFan, new Point(50, 50));
 
             //this.Invalidate();
         }
@@ -35,7 +37,14 @@ namespace WindowsForms_GifAnimation
 
             fan = Properties.Resources.Fan;
 
-            ImageAnimator.Animate(fan, onFrameChangedHandler);
+            newFan = resizeImage(fan ,new Size(100, 100));
+
+            ImageAnimator.Animate(newFan, onFrameChangedHandler);
+        }
+
+        public static Image resizeImage(Image imgToResize, Size size)
+        {
+            return (Image)(new Bitmap(imgToResize, size));
         }
 
         void onFrameChangedHandler(object sender, EventArgs e)
